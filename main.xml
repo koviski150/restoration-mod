@@ -50,6 +50,16 @@
 		<hook file="managers/menu/MenuBackdropGUI.lua" source_file="lib/managers/menu/MenuBackdropGUI"/>
 		<hook file="managers/menu/MenuPauseRenderer.lua" source_file="lib/managers/menu/MenuPauseRenderer"/>
 		<hook file="managers/menu/renderers/menunodejukeboxgui.lua" source_file="lib/managers/menu/renderers/menunodejukeboxgui"/>
+		<!--NIGHTMARE WORLD-->
+		<hook file="managers/menu/MenuPauseRenderer.lua" source_file="lib/managers/menu/MenuPauseRenderer"/>
+		<hook file="managers/menu/MenuRenderer.lua" source_file="lib/managers/menu/MenuRenderer"/>
+		<hook file="managers/menu/MenuNodeGUI.lua" source_file="lib/managers/menu/MenuNodeGUI"/>
+		<hook file="managers/CrimeNetManager.lua" source_file="lib/managers/CrimeNetManager"/>
+		<hook file="managers/menu/ContractBoxGUI.lua" source_file="lib/managers/menu/ContractBoxGUI"/>
+		<hook file="managers/menu/TextBoxGUI.lua" source_file="lib/managers/menu/TextBoxGUI"/>
+		<hook file="managers/menu/MenuComponentManager.lua" source_file="lib/managers/menu/menucomponentmanager"/>
+		<hook file="managers/menu/NewsFeedGUI.lua" source_file="lib/managers/menu/NewsFeedGUI"/>
+		<!--NIGHTMARE WORLD-->
 		<!--///SCRIPTDATA\\\-->
 		<hook file="CoreScriptData.lua" source_file="core/lib/managers/coresequencemanager"/>
 		<!--///NOTIFICATIONS\\\-->

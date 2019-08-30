@@ -1,7 +1,3 @@
-if not restoration.Options:GetValue("HUD/MainHUD") then
-	return
-end
-
 function HUDChat:init(ws, hud)
 	self._ws = ws
 	self._hud_panel = hud.panel
