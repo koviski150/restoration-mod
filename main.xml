@@ -59,6 +59,8 @@
 		<hook file="managers/menu/TextBoxGUI.lua" source_file="lib/managers/menu/TextBoxGUI"/>
 		<hook file="managers/menu/MenuComponentManager.lua" source_file="lib/managers/menu/menucomponentmanager"/>
 		<hook file="managers/menu/NewsFeedGUI.lua" source_file="lib/managers/menu/NewsFeedGUI"/>
+		<hook file="managers/menu/PlayerProfileGUIObject.lua" source_file="lib/managers/menu/playerprofileguiobject"/>
+		<hook file="managers/menu/renderers/MenuNodeCrimeNetGUI.lua" source_file="lib/managers/menu/renderers/menunodecrimenetgui"/>
 		<!--NIGHTMARE WORLD-->
 		<!--///SCRIPTDATA\\\-->
 		<hook file="CoreScriptData.lua" source_file="core/lib/managers/coresequencemanager"/>
