@@ -4,7 +4,10 @@
 		<class file="callbacks.lua"/>
 		<class file="hooks.lua"/>
     </Classes>
-	<AssetUpdates id="428" version="9.6.4" provider="modworkshop" use_local_dir="true" use_local_path="true"/>
+	<!-- <AssetUpdates id="428" version="9.6.4" provider="modworkshop" use_local_dir="true" use_local_path="true"/> -->
+	<AssetUpdates id="ResModGold" version="9.6.5">
+    	<custom_provider version_api_url="https://github.com/payday-restoration/restoration-mod/raw/experimental/revision.txt" download_url="https://github.com/payday-restoration/restoration-mod/archive/experimental.zip"/>
+	</AssetUpdates>
 	<ScriptMods directory="scriptdata/menus">
 		<mod file="start_menu.xml" type="custom_xml" target_file="gamedata/menus/start_menu" target_type="menu" merge_mode="script_merge"/>
 		<!-- Res Suits
