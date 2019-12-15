@@ -12,6 +12,19 @@
  "pre_hooks" : [
 		{ "hook_id" : "lib/entry", "script_path" : "Corepre.lua" }
     ],
+"updates+" : [
+    {
+        "identifier": "testresmod",
+        "repository" : true,
+        "host": {
+            "platform": "github",
+            "user": "payday-restoration",
+            "project": "restoration-mod",
+            "branch":"experimental",
+            "this_hash":"d89604c66436decfa1637d30234c87b1af5a8c05"
+            }
+        }
+]
  "libraries" : [
         {
             "display_name" : "BeardLib",
